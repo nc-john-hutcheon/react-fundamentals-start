@@ -1,7 +1,7 @@
 import "./App.css";
 
 function App() {
-  const tvList = ["Dark", "Succession", "Inside No.9"];
+  const tvList = ["Succession", "Limmy's Show", "Inside No.9"];
 
   return (
     <section className="App">
